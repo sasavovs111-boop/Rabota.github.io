@@ -1,0 +1,4 @@
+git checkout -b new-feature
+# изменение файлов
+git commit -m "Added feature"
+git push origin new-feature
